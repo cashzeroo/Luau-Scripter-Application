@@ -2,7 +2,7 @@ Luau Scripter Application.
 Submission by ftwcash
 
 Local Script:
-
+============
 
 --// Services
 local Players = game:GetService("Players")
@@ -120,9 +120,10 @@ end)
 
 
 Script (Server):
+================
 
 
-
+--// Server script starts here:
 --// Services
 local Players = game:GetService("Players")
 local Marketplace = game:GetService("MarketplaceService")
